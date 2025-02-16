@@ -1,0 +1,257 @@
+Random_id;Sexe;Contrat;Salaire_base_mensuel;Part_variable_moyenne(pourcentage);Augmentation;Promotion;Anciennete_an;Service;Accident_travail;Tranche_age;Tranche_anciennete_an;Type_contrat_hebdo
+227bcf3518eb796a62b488aff68ec8f646544fd4;F;CDI;9873,5;13;Non;Non;22,5;Consultant;Non;entre 40 et 49 ans;entre 20 et 24;Temps complet
+f50bec0644ceeeb8c42566323ac12ee55ddffd0a;H;CDI;4296,72;39;Non;Oui;10,8;Consultant;Non;50 ans et plus;entre 10 et 14;Temps complet
+6805a11cd8d26e7f9f901e3b41fb326d7c3d6de9;F;CDI;3705,22;29;Oui;Oui;13;RH;Oui;50 ans et plus;entre 10 et 14;Temps complet
+7c018ea1049421d011567ea261211c374a11c9aa;H;CDI;1697,15;17;Oui;Non;21,7;Consultant;Non;50 ans et plus;entre 20 et 24;Temps complet
+dec559fa7c33b6d630dd47588e6d50979f9917dc;H;CDD;2848,3;15;Oui;Non;3,3;R&D;Oui;entre 40 et 49 ans;moins de 4;Temps complet
+06c1898e2f6fbb42f89b25acf946529fcd3d9237;H;CDI;5464,55;34;Non;Non;10,5;Commercial;Non;50 ans et plus;entre 10 et 14;Temps complet
+7cc4c289d5d6d1851579f7e52037f8a327068037;H;CDI;9999,38;27;Non;Oui;17,8;Marketing;Oui;entre 40 et 49 ans;entre 15 et 19;Temps complet
+220a4a621895d4a7e2ef020c7568f9ec34e93d5e;F;CDI;3116,88;37;Non;Oui;8,2;RH;Oui;50 ans et plus;entre 5 et 9;Temps partiel
+68e8edaf32495a6fedf2302d75bf8474bb4d981a;H;CDI;5462,08;39;Non;Oui;7,5;Marketing;Non;entre 30 et 39 ans;entre 5 et 9;Temps partiel
+06008e43fb444f17f93ee5ca512e71c86aecfbdc;H;CDI;2769,43;33;Non;Non;18,9;Compta Finances;Oui;entre 40 et 49 ans;entre 15 et 19;Temps complet
+98bb86bc067783d4ef1c60ed4059c4df2a8a8f6d;F;CDI;5522,18;9;Oui;Oui;5,9;RH;Oui;50 ans et plus;entre 5 et 9;Temps complet
+6335353e90ac56a40b997ebdaaf0f344264344d8;F;CDI;7308,82;12;Non;Oui;20,2;Consultant;Non;entre 40 et 49 ans;entre 20 et 24;Temps complet
+08c22a2c2e27c2fd292cdccd6a623ed8dea5bc61;F;CDI;5895,76;23;Oui;Oui;22,4;Commercial;Non;50 ans et plus;entre 20 et 24;Temps partiel
+e4a69510fba858296ce28b1c5c0e0cf598c5ad4d;H;CDI;7081,32;26;Non;Oui;20;R&D;Non;50 ans et plus;entre 20 et 24;Temps complet
+95fe82f6393430f5dc7dc3804e663f94a955154e;H;CDI;6195,58;23;Non;Oui;13,1;Commercial;Oui;50 ans et plus;entre 10 et 14;Temps complet
+c6adfcd5e76f5427355621419f8076a76f57971f;H;CDI;5517,63;23;Oui;Oui;23,3;Marketing;Non;50 ans et plus;entre 20 et 24;Temps complet
+c3e44a8bc0e6b92fba40675c42176492e85d1491;H;CDI;8458,45;1;Non;Non;15,2;R&D;Non;entre 40 et 49 ans;entre 15 et 19;Temps complet
+ddc95acdc3e23e3ccece6aa75c6b9f78f5f1cfc9;F;CDI;2132,43;18;Oui;Oui;3,2;Consultant;Oui;50 ans et plus;moins de 4;Temps complet
+7ce9df5f88e079df12726d868573bc714ea14334;F;CDI;3097,03;13;Non;Non;25;Consultant;Non;50 ans et plus;entre 25 et 29;Temps complet
+6221620fbcafb777ad3a68c05147e4a75bcaf5ae;F;CDI;8218,82;14;Non;Oui;16,3;Compta Finances;Oui;50 ans et plus;entre 15 et 19;Temps complet
+e7d0e4042f870d24ec86ca9703531d3d550a4cb0;F;CDI;5388,72;30;Oui;Non;8,4;Consultant;Oui;50 ans et plus;entre 5 et 9;Temps complet
+e700ba74f2db672f3821246c54fe20eb6edf905a;H;CDI;1873,08;27;Non;Non;12,2;Consultant;Oui;50 ans et plus;entre 10 et 14;Temps complet
+758806d217fdfde006a213a33333ee2cd8f6c56f;F;CDI;4152,63;7;Oui;Oui;15,8;Commercial;Oui;50 ans et plus;entre 15 et 19;Temps complet
+22f69a4e81e5016ff661834515f2832e91df8e27;H;CDI;9096,97;21;Non;Oui;5,8;R&D;Oui;50 ans et plus;entre 5 et 9;Temps complet
+9099487d3678528a1d889f14227ca8fc11a2230d;H;CDI;7264,83;31;Non;Oui;15,6;Marketing;Oui;50 ans et plus;entre 15 et 19;Temps complet
+35dd67f0b17b2f0e2441672c4dbfb2900f5b3dae;F;CDI;2052,05;13;Oui;Oui;5,3;Compta Finances;Oui;entre 30 et 39 ans;entre 5 et 9;Temps complet
+aaedfd6a7265352d0ec5835a69c1a782148b9078;F;CDD;2496;21;Pas d'infos;Pas d'infos;1,3;Consultant;Oui;50 ans et plus;moins de 4;Temps partiel
+cbf924a54679eef2967d4a19f7550708788484f5;H;CDI;2767,92;6;Oui;Non;9,2;RH;Oui;50 ans et plus;entre 10 et 14;Temps complet
+abc0b7bcd5e51f736a96af80e41f59dc07bc83cd;H;CDI;3486,82;19;Non;Oui;3,1;RH;Non;entre 30 et 39 ans;moins de 4;Temps complet
+c7b472ecd8fbb0d7cba4d0ec6ce1f60f4d59c1a5;H;CDI;1709,76;10;Oui;Oui;10,3;Consultant;Oui;50 ans et plus;entre 10 et 14;Temps partiel
+1ffd30e9bc951775268af080d90a167755754d40;F;CDI;3165,28;0;Non;Oui;6,8;Commercial;Oui;50 ans et plus;entre 5 et 9;Temps complet
+847604e9e9f6389623bec88c5b5b1d835a569554;H;CDI;6002,97;2;Oui;Oui;22,8;Marketing;Oui;50 ans et plus;entre 20 et 24;Temps complet
+f84fec8a991b7e26837ddeefc0bc2d2acc941191;H;CDI;2998,45;21;Oui;Oui;8,2;Marketing;Oui;entre 30 et 39 ans;entre 5 et 9;Temps complet
+42ce2b515f1bfb37304b5ea5faef54a4c8ec8309;H;CDI;3508,05;11;Non;Oui;24;RH;Oui;50 ans et plus;entre 25 et 29;Temps complet
+f39b0403342e6a6195da0daa3c7e60a651c9ddec;H;CDI;3232,02;35;Non;Non;24,4;Consultant;Non;entre 40 et 49 ans;entre 25 et 29;Temps complet
+755041e7f947d53a5d63c32ba88ffb65a7d535c8;H;CDI;1851,55;19;Non;Oui;23,7;Consultant;Oui;50 ans et plus;entre 20 et 24;Temps partiel
+89af4bad0933496f78ee76cc095e596215a3875e;H;CDI;5359,9;4;Oui;Non;15,7;RH;Non;50 ans et plus;entre 15 et 19;Temps complet
+082634dac195f57d24bd124de20e1085b56bcfe8;H;CDI;9069,67;1;Non;Non;18,4;Commercial;Non;entre 40 et 49 ans;entre 15 et 19;Temps complet
+8af4603da6d0195abb9886d9032740fa3902f6e0;F;CDI;7377,07;17;Oui;Oui;6;Compta Finances;Oui;50 ans et plus;entre 5 et 9;Temps complet
+0979c764906b519a60f632a6633d875558c62dd0;F;CDI;7157,15;3;Non;Non;3,7;RH;Oui;entre 40 et 49 ans;moins de 4;Temps complet
+ab023d5d477069162e5c981b3895069af4f4f956;H;CDI;8714,77;37;Oui;Non;15,6;Commercial;Non;50 ans et plus;entre 15 et 19;Temps complet
+025018fec998a595b17ffb99d3ebea892b81c6e5;F;CDI;2070,25;24;Non;Non;9,3;Consultant;Non;entre 30 et 39 ans;entre 10 et 14;Temps complet
+64571cb27aca2bf2e4533561c6485ef5da3a5370;H;CDI;8073,22;38;Oui;Oui;15,7;Compta Finances;Non;50 ans et plus;entre 15 et 19;Temps complet
+b0a9993aca3309c02d2b1b6160e4459ee1e18879;H;CDI;1651,65;18;Non;Non;17,1;Consultant;Non;entre 40 et 49 ans;entre 15 et 19;Temps complet
+95f81b76106397de1ee34979ccb02a8214d9b0eb;F;CDI;4516,63;34;Oui;Non;17,4;Consultant;Oui;50 ans et plus;entre 15 et 19;Temps complet
+cbf5942c7b172ee05efeed565ded9eae48ac9c58;H;CDI;3383,68;23;Non;Non;17,2;Compta Finances;Oui;50 ans et plus;entre 15 et 19;Temps complet
+c1792cb34a1d7caf6ed78966c396c6b3ae6b9dd6;F;CDD;3168,32;10;Pas d'infos;Pas d'infos;1,4;Consultant;Non;50 ans et plus;moins de 4;Temps complet
+3e790796b25371709abe639d9c3f90f054d4bf29;H;CDI;4499,95;22;Oui;Non;5,8;RH;Oui;50 ans et plus;entre 5 et 9;Temps complet
+984b1aecbcd1938bd933f121d786c6b42c9b7978;H;CDD;1989,87;5;Pas d'infos;Pas d'infos;1,4;Marketing;Non;entre 40 et 49 ans;moins de 4;Temps complet
+82bdd6e92a5c12a305a85430df6536bf437de50c;F;CDI;1863,98;12;Oui;Oui;2,5;Marketing;Non;entre 40 et 49 ans;moins de 4;Temps complet
+cc27ba8133f8d6074e6b204eb0d116b7e551d6ed;F;CDI;9366,93;8;Oui;Oui;9,1;R&D;Oui;50 ans et plus;entre 10 et 14;Temps complet
+27a4b6567903beeb5fc8bc0b090ede4041e6e4cf;H;CDI;6842,16;21;Oui;Oui;23,9;Marketing;Non;50 ans et plus;entre 20 et 24;Temps partiel
+2019a78e9052b1edca4fc156a812a44baeedb83f;F;CDD;3185;3;Pas d'infos;Pas d'infos;1,7;Commercial;Oui;50 ans et plus;moins de 4;Temps complet
+af0008e6d266efd03ff602930b964a4c8ee48e55;H;CDI;3582,37;30;Oui;Oui;22,4;Marketing;Non;50 ans et plus;entre 20 et 24;Temps complet
+5d2a1a0d4e96a3f0356b6e55b5c2a000412ad3cf;H;CDI;1833,65;8;Non;Oui;8,2;Compta Finances;Non;50 ans et plus;entre 5 et 9;Temps complet
+250413dd8e1d4649b20ea0efb002a60176489be5;F;CDI;6356,35;26;Oui;Non;4,2;R&D;Oui;entre 40 et 49 ans;entre 5 et 9;Temps complet
+348ee430cb432d034074ddf49aa98e8d6b5cd4f4;F;CDD;3033,33;8;Pas d'infos;Pas d'infos;0,4;Consultant;Oui;50 ans et plus;moins de 4;Temps complet
+8e046b05d402e49fb62821e6218ffc43ccf552ff;F;CDI;7672,82;37;Oui;Oui;3,8;Consultant;Non;entre 40 et 49 ans;moins de 4;Temps complet
+42379b799acbdbb85a78871dd62275af433cc4ff;H;CDI;1110,72;14;Oui;Oui;6,3;Consultant;Oui;50 ans et plus;entre 5 et 9;Temps partiel
+fa7a3a6c6a6c749a4c3c50cca6c5fa1b8974f32f;H;CDI;5448,56;30;Non;Oui;7,3;Consultant;Oui;50 ans et plus;entre 5 et 9;Temps partiel
+cee70821113101fa8738c7ce36fef700a7177945;H;CDI;1835,17;6;Non;Oui;19;Compta Finances;Non;entre 40 et 49 ans;entre 20 et 24;Temps complet
+d9d78a9192a8527929a3e9bf3b6bb376ae0db141;F;CDI;8056,53;13;Non;Oui;10,3;Compta Finances;Non;50 ans et plus;entre 10 et 14;Temps complet
+29a8ca4463b4725c25dd154ca07e2ad00ea2c768;H;CDI;9737;12;Oui;Oui;7,4;Consultant;Oui;50 ans et plus;entre 5 et 9;Temps complet
+c1938fc82b494a3ef54c54f53c8cd1d68fc6d63b;F;CDI;5581,33;20;Oui;Non;23,9;Commercial;Oui;entre 40 et 49 ans;entre 20 et 24;Temps complet
+e999db78fe838ccf59563e5a917129058a39a807;F;CDI;5056,57;24;Oui;Oui;16,2;RH;Non;entre 30 et 39 ans;entre 15 et 19;Temps complet
+91047300ce64ee46942620d89a054170deeb2218;H;CDI;9039,33;20;Oui;Oui;10,7;RH;Oui;entre 30 et 39 ans;entre 10 et 14;Temps complet
+d3d22e1c28edd71214ab20c6c2eb6f0a1e0a02e0;F;CDD;2881,67;27;Pas d'infos;Pas d'infos;1,9;Commercial;Oui;50 ans et plus;moins de 4;Temps complet
+cafc6185474c7fa140bf2c03d46fb116729ea38f;H;CDI;6175,87;38;Non;Oui;9,7;RH;Non;entre 30 et 39 ans;entre 10 et 14;Temps complet
+6c492166935278c438dbc1804fa5de98e9e4a20d;F;CDD;2426,67;21;Pas d'infos;Pas d'infos;0,6;Marketing;Oui;50 ans et plus;moins de 4;Temps complet
+d441bf26edcaa5faac9272819998fcbd0e1932e9;F;CDI;7898,8;35;Non;Oui;23;Compta Finances;Oui;50 ans et plus;entre 20 et 24;Temps complet
+1b2f7b3a9092e0a1febf518e9e4e25c1a56a7111;H;CDI;9447,32;0;Oui;Oui;21,1;Consultant;Oui;50 ans et plus;entre 20 et 24;Temps complet
+2d929fadbfa8cd285e3923e1a12aac56c429698b;H;CDI;2396,33;11;Non;Oui;21,6;Commercial;Oui;50 ans et plus;entre 20 et 24;Temps complet
+edec8a806b20ab57a45ebac782c841cfc7f5d79b;H;CDI;8716,28;20;Non;Non;8,3;R&D;Non;entre 30 et 39 ans;entre 5 et 9;Temps complet
+32b4f4bc95d3cc6c2fc0f1d0888e9e122e1b920a;F;CDI;2731,52;4;Oui;Oui;16,2;Consultant;Oui;50 ans et plus;entre 15 et 19;Temps complet
+2058d7fe238f749c14bf99780a2d1e100641d5dc;F;CDI;7942,78;38;Oui;Non;10,8;Commercial;Oui;50 ans et plus;entre 10 et 14;Temps complet
+4994ddc6f205fb0f2c77c686e23f398b55dea935;H;CDI;7178,38;38;Oui;Non;6,5;Consultant;Oui;entre 40 et 49 ans;entre 5 et 9;Temps complet
+11d0bb97ab4134d7e21fe8a42d10fe63c2fa533c;F;CDI;5585,88;17;Oui;Non;15,7;Consultant;Non;entre 40 et 49 ans;entre 15 et 19;Temps complet
+f52402efc6ef286c835779ff342de253cf8f365e;H;CDI;8277,97;10;Non;Non;20,4;RH;Non;entre 40 et 49 ans;entre 20 et 24;Temps complet
+ea40e34d3c8dc6a283bc7d3f6cc00a8efaa1d68a;F;CDI;2369,03;20;Non;Non;12,8;Commercial;Oui;entre 40 et 49 ans;entre 10 et 14;Temps complet
+ec3c1b3cf9b62e36a5a4c698b895b27e967ce483;H;CDI;3462,55;3;Oui;Non;20,6;Marketing;Oui;entre 40 et 49 ans;entre 20 et 24;Temps complet
+bd6804a9398b19d4d2d136c7b78b66e08eef8175;H;CDI;2511,6;21;Non;Oui;9,2;Commercial;Oui;entre 40 et 49 ans;entre 10 et 14;Temps complet
+bc2f61747e7f24e0f693996a6b066ebecdd93ac7;H;CDI;9400,3;3;Oui;Oui;20,1;Consultant;Non;50 ans et plus;entre 20 et 24;Temps complet
+03398f66db6047356af0ec745a3b1ee0cf8a171e;F;CDD;3640;6;Pas d'infos;Pas d'infos;1,1;Marketing;Oui;50 ans et plus;moins de 4;Temps complet
+37aecce3011e01fcb309706b6a51fdf23a11f963;F;CDI;1774,5;16;Oui;Oui;5,5;Consultant;Non;50 ans et plus;entre 5 et 9;Temps complet
+b90b4d9b39d40e822aba9020cd4cc6843ddb44a9;F;CDI;3597,53;32;Oui;Oui;16,8;Marketing;Oui;entre 40 et 49 ans;entre 15 et 19;Temps complet
+20d65cbaca9b1610688eac50b876b43cb505af69;F;CDI;5951,92;32;Oui;Non;8,2;Marketing;Oui;50 ans et plus;entre 5 et 9;Temps partiel
+802dee44dcc3cad6fa22c011866ec77197d68899;F;CDD;3201,68;38;Pas d'infos;Pas d'infos;0,8;Compta Finances;Oui;entre 30 et 39 ans;moins de 4;Temps complet
+ef3c71a995d6ed12978f79f8c048341715753c8d;H;CDI;3335,15;28;Oui;Non;7,5;RH;Non;50 ans et plus;entre 5 et 9;Temps complet
+0972470589a6ed4989fe5015e42c6b456e56dc0a;F;CDI;4712,28;26;Oui;Oui;12;Consultant;Oui;entre 40 et 49 ans;entre 10 et 14;Temps complet
+85b8e954239dc8035363f8755cccd17129b8ad93;H;CDI;5984,77;6;Non;Oui;24,9;Commercial;Non;50 ans et plus;entre 25 et 29;Temps complet
+bcff7a45aa4fdbeba4048d91f404b5d87ab26c75;F;CDI;2928,68;33;Oui;Oui;5,3;Commercial;Oui;50 ans et plus;entre 5 et 9;Temps complet
+2bd057c0de39d2fa2cb8a4ce6861b85861994e8d;F;CDI;6301,75;34;Non;Oui;9,7;Consultant;Oui;50 ans et plus;entre 10 et 14;Temps complet
+bbbda7b49151d3947c8ef87f5fe45402f6fd9461;F;CDI;3218,37;27;Oui;Non;19,3;RH;Non;50 ans et plus;entre 20 et 24;Temps complet
+4e2d8ca4e1d0b0848780b052b2ff0097f2c3efa9;H;CDI;1803,32;8;Oui;Non;4,4;Consultant;Oui;entre 30 et 39 ans;entre 5 et 9;Temps complet
+c69c791618e431cf1a29dff4232ec8a90ba2562d;H;CDI;7263,32;30;Oui;Non;12,7;RH;Oui;50 ans et plus;entre 10 et 14;Temps complet
+61117b695439ffb585dea9cad0a6717a75f0da3c;F;CDI;2912;35;Non;Oui;4,2;Marketing;Oui;50 ans et plus;entre 5 et 9;Temps complet
+802f104a3aaf33eff732b1515cc31a4c2a9e7604;H;CDI;6409,43;21;Non;Oui;7,1;Consultant;Non;50 ans et plus;entre 5 et 9;Temps complet
+42f4ae798e6d9527e678eab5f95abdcf52e32892;H;CDI;1772,98;20;Oui;Oui;16,4;Compta Finances;Non;50 ans et plus;entre 15 et 19;Temps complet
+5cbaad29895c11165cbb2052c03165563bd8721f;F;CDI;6902,35;17;Non;Oui;17,3;Commercial;Non;entre 40 et 49 ans;entre 15 et 19;Temps complet
+df5c5c89e48085f93a0ecbe36fc489b89ac52357;H;CDI;4795,44;19;Non;Oui;5,6;Consultant;Oui;entre 30 et 39 ans;entre 5 et 9;Temps partiel
+442020824953c72d848fd590cd5672f142dd3189;H;CDI;3803,8;30;Non;Non;20,4;RH;Non;entre 40 et 49 ans;entre 20 et 24;Temps complet
+ff85cce2d85c65782f885d57a3fbcc0305e7e6f9;F;CDI;3547,48;39;Oui;Non;11,7;Consultant;Non;entre 40 et 49 ans;entre 10 et 14;Temps complet
+2b6489d23b4607c15f13737226cc80db04461b52;F;CDI;2916,55;35;Oui;Oui;10,2;Commercial;Non;entre 40 et 49 ans;entre 10 et 14;Temps complet
+ef0b9f3b79830310b46cfbbaf03bc1ff7c42fe61;F;CDI;1059,76;1;Non;Oui;11,9;Compta Finances;Non;entre 40 et 49 ans;entre 10 et 14;Temps partiel
+7d53ca82e5ccb5b903353ca0e01c291f703fca23;H;CDI;7927,62;32;Oui;Non;10;Commercial;Oui;50 ans et plus;entre 10 et 14;Temps complet
+5260120b812c05d4ed5fcf2de096b79d5f88b427;F;CDI;8332,57;12;Non;Non;5,2;Compta Finances;Non;entre 40 et 49 ans;entre 5 et 9;Temps complet
+598f52e45eafbe9d0439f55fc6e79db25293fb02;F;CDI;4082,87;28;Non;Oui;22,3;Marketing;Non;50 ans et plus;entre 20 et 24;Temps complet
+3c70daf3274a09aa58131392b5ddf374edd42f4b;H;CDI;9785,53;28;Non;Oui;17,2;Commercial;Oui;entre 40 et 49 ans;entre 15 et 19;Temps complet
+7e08b73d2a46775ba1fb37ad519e7162d934e8ee;H;CDI;4421,08;6;Oui;Oui;14,2;Compta Finances;Non;50 ans et plus;entre 15 et 19;Temps complet
+0b08552dbc6bf7f25f1020de88d335480be847c3;H;CDI;2843,75;2;Non;Non;12,5;Consultant;Non;50 ans et plus;entre 10 et 14;Temps complet
+37dc44b24d310b31225f1bbe89e610901322ce7f;H;CDI;8563,1;7;Non;Non;21,5;RH;Oui;entre 40 et 49 ans;entre 20 et 24;Temps complet
+e6174b66af5dd3b5752434a94abf068176a0bf86;H;CDI;4988,32;8;Non;Non;22,2;Compta Finances;Non;50 ans et plus;entre 20 et 24;Temps complet
+39ede24e0ac597e13df6de973d0f5b5fdf6bf199;H;CDI;7269,08;7;Oui;Oui;9,2;Consultant;Oui;50 ans et plus;entre 10 et 14;Temps partiel
+b7dba7b228e6df77d7e9b5e273e8062f818c5e7b;H;CDI;1669,85;22;Oui;Non;12,4;Marketing;Non;entre 30 et 39 ans;entre 10 et 14;Temps complet
+94df69407dd7d9f9988acf710997e4e91c2291a6;H;CDI;7098;1;Oui;Oui;23,2;Commercial;Oui;50 ans et plus;entre 20 et 24;Temps complet
+718834f01f3b4374244e4eac933faab01bfe3174;H;CDI;6526,22;36;Non;Oui;22,8;R&D;Oui;50 ans et plus;entre 20 et 24;Temps complet
+a1ed945da384fba1ba8104d028a48a0725ab3833;F;CDI;8422,05;38;Non;Oui;11,7;Compta Finances;Oui;50 ans et plus;entre 10 et 14;Temps complet
+3e5e142adaf19fed3b20bf9e5d513f0efd37af61;H;CDI;8337,12;16;Non;Oui;6,3;Commercial;Oui;entre 40 et 49 ans;entre 5 et 9;Temps complet
+949ddc478fda3f633216106828b5bf66471a97df;F;CDI;9777,95;4;Oui;Non;10,5;Commercial;Non;entre 40 et 49 ans;entre 10 et 14;Temps complet
+696c7b91eb676b0c37bc93c010700245cf8d8e19;H;CDI;3677,92;33;Non;Non;22,6;Commercial;Non;entre 40 et 49 ans;entre 20 et 24;Temps complet
+8b4964839b930843c0df323fc9bbc70b3ee22044;H;CDI;9940,23;24;Non;Non;22,7;Marketing;Non;entre 40 et 49 ans;entre 20 et 24;Temps complet
+d6020dd6c17e275118cd5976cb514bc8dd7a07c3;H;CDI;2777,02;10;Oui;Non;23,5;Consultant;Oui;50 ans et plus;entre 20 et 24;Temps complet
+66f67d365914af99a6b08ce8744828b2e12c9951;F;CDI;6818,93;14;Oui;Non;24,3;Commercial;Non;50 ans et plus;entre 25 et 29;Temps complet
+341b2dca57ad952a4a5dcc1f01717db29a9c13f5;F;CDI;4424,12;30;Non;Non;24,2;Marketing;Non;50 ans et plus;entre 25 et 29;Temps complet
+cab3f827764f60c3cb423543ddbaf9593fb2cb2d;H;CDI;9928,1;27;Oui;Non;10;RH;Oui;entre 30 et 39 ans;entre 10 et 14;Temps complet
+dbbfad239a027bac56488aee751e0d8a84343f8f;F;CDD;2123,33;39;Pas d'infos;Pas d'infos;1,8;Compta Finances;Non;50 ans et plus;moins de 4;Temps complet
+68f53b2e1861864106498a2b1b0515726309ce50;H;CDI;4263,35;31;Non;Non;15,7;Compta Finances;Non;50 ans et plus;entre 15 et 19;Temps complet
+e2fc1c3bd1fb1b685c3255b00f197370f7f5488a;F;CDI;8629,83;3;Non;Non;19,4;Commercial;Non;50 ans et plus;entre 20 et 24;Temps complet
+97119da1948f1c592e4b662563b3c3278143a779;F;CDI;4663,75;5;Non;Oui;24,4;R&D;Oui;50 ans et plus;entre 25 et 29;Temps complet
+dfe769e3868f86b8edfbd25f252827822a9e4b35;F;CDI;4851,6;14;Non;Non;20,6;RH;Oui;entre 40 et 49 ans;entre 20 et 24;Temps partiel
+62b1e770db83f1b28e16749ae20deeb5d9a29f86;H;CDI;5930,17;33;Non;Non;5,9;Marketing;Non;50 ans et plus;entre 5 et 9;Temps complet
+95c1b60a49187866446c743e20166f0726cd60a3;F;CDI;7496,88;6;Oui;Non;21,9;Commercial;Non;entre 40 et 49 ans;entre 20 et 24;Temps complet
+241b169c735e8f5f5485897f9b00344da69f90ca;F;CDI;8108,1;38;Non;Non;11,7;RH;Oui;entre 40 et 49 ans;entre 10 et 14;Temps complet
+87b5f0ed598ac81d539fff6c6fa151d6db2c6011;H;CDI;6121,27;32;Non;Non;20,5;Commercial;Oui;entre 40 et 49 ans;entre 20 et 24;Temps complet
+a309ecc6554921e12f1e461e6ed83088d1910b37;F;CDI;4563,65;38;Oui;Non;16,2;Marketing;Oui;50 ans et plus;entre 15 et 19;Temps complet
+1a496af5474d32d3d4d0e1d7d4d46acfd9c95b36;H;CDI;9978,15;34;Non;Oui;13;Compta Finances;Oui;50 ans et plus;entre 10 et 14;Temps complet
+6cc3d6dc5c4a0ba83a543b129537ff713c57ee28;H;CDI;4624,32;15;Non;Non;10,2;Marketing;Non;entre 40 et 49 ans;entre 10 et 14;Temps complet
+c1a585c79ade317415f76ae39fcf9ff67aceb35e;F;CDI;2079,35;7;Oui;Oui;13,7;Compta Finances;Oui;50 ans et plus;entre 10 et 14;Temps complet
+e1b23c25ab9673f5c21c34ca2209334b6f1fd85c;H;CDI;2055,04;12;Non;Oui;13,2;Consultant;Non;50 ans et plus;entre 10 et 14;Temps partiel
+111d7b880dd5505a22ee0a16ef664253609dc3ad;H;CDI;9573,2;7;Non;Non;18,7;Commercial;Oui;50 ans et plus;entre 15 et 19;Temps complet
+a80a52bf71899cc3e4a5a0499aaab8fefcbc5bd9;F;CDI;4289,13;12;Non;Oui;12,6;Consultant;Oui;50 ans et plus;entre 10 et 14;Temps complet
+2d874cf8b703feb2c14ec57ca13fa117167b5d6c;F;CDI;8056,53;14;Non;Non;21,8;Marketing;Oui;50 ans et plus;entre 20 et 24;Temps complet
+386c19650b05df25d0f947f62d58808e3703e50a;H;CDD;3693,08;24;Pas d'infos;Pas d'infos;0,3;Marketing;Non;entre 40 et 49 ans;moins de 4;Temps complet
+45ab9d353fb8381a656223e0dd643b6e010a953a;F;CDI;5106,62;10;Non;Oui;9,8;RH;Non;50 ans et plus;entre 10 et 14;Temps complet
+8eefd82741b7c0f737b202b24904030e115f0095;H;CDD;2357,33;12;Pas d'infos;Pas d'infos;1,2;Consultant;Non;50 ans et plus;moins de 4;Temps partiel
+376207f4dd6d7744877864090a5019d229dcd6a4;F;CDI;3260,83;30;Oui;Non;17;Commercial;Oui;entre 40 et 49 ans;entre 15 et 19;Temps complet
+34f13e9819904cd6e7023d70bd8e5d8f62126cd2;H;CDI;4449,9;33;Oui;Oui;2,9;Consultant;Non;50 ans et plus;moins de 4;Temps complet
+4f76122ea39a1b5c29c739240b6ff397486bc88b;F;CDI;7877,57;36;Oui;Non;22,2;RH;Non;50 ans et plus;entre 20 et 24;Temps complet
+f6fd6082c90a90f649e338c59c5e4ddbc0056d6c;H;CDI;4281,55;13;Oui;Non;8,3;Consultant;Non;entre 40 et 49 ans;entre 5 et 9;Temps complet
+5f101266b0b6750761bf6eb851c1ba7149107c88;H;CDI;4134,43;22;Non;Non;22,8;Consultant;Non;entre 40 et 49 ans;entre 20 et 24;Temps complet
+f4da1a96ffc60454151e19a55fc838978dc3d352;F;CDI;3256,28;34;Non;Non;8,8;Marketing;Non;50 ans et plus;entre 5 et 9;Temps complet
+766ad6396a25c80d92a2d88ff32957b8810153e4;F;CDI;6591,43;19;Non;Non;20,2;Consultant;Oui;50 ans et plus;entre 20 et 24;Temps complet
+2e4bf6ac60581c59072fc2d86103f2f711f3703f;H;CDI;8696,57;37;Non;Oui;8,7;Compta Finances;Oui;50 ans et plus;entre 5 et 9;Temps complet
+55e1e14efd4e4fd2de4c2e130b8fef2776531377;F;CDI;2073,28;28;Non;Oui;21,1;Consultant;Non;entre 40 et 49 ans;entre 20 et 24;Temps complet
+b01fa6f0e4c594d65ecb542245477f8f921d2ea6;H;CDI;5097,21;10;Oui;Non;9,3;Consultant;Non;entre 40 et 49 ans;entre 10 et 14;Temps partiel
+9bd98d8e3a02d179024261579810c20db2e2ad6c;H;CDI;7710,73;27;Non;Oui;7,5;RH;Oui;entre 40 et 49 ans;entre 5 et 9;Temps complet
+59de2351e320047df94a2cb93b7be34558062f8c;H;CDI;3882,67;1;Non;Oui;11,8;RH;Non;entre 30 et 39 ans;entre 10 et 14;Temps complet
+55957d6fa818ebe9746d550489a24416c0c9079c;F;CDI;3835,65;26;Non;Oui;14,9;RH;Oui;50 ans et plus;entre 15 et 19;Temps complet
+fb33249c800559967876b22f47cdf193499505f9;F;CDI;9256,22;1;Oui;Non;7,4;Compta Finances;Non;50 ans et plus;entre 5 et 9;Temps complet
+e86ab5493c56e8925ea24a05c11025ca7e539208;H;CDI;5455,45;7;Non;Oui;19;Consultant;Oui;50 ans et plus;entre 20 et 24;Temps complet
+4231b1087fb60a21a1e263b8ef8541fe2cfc473d;H;CDI;8428,12;18;Oui;Non;20;Commercial;Oui;50 ans et plus;entre 20 et 24;Temps complet
+ba748e5d30db609cecd830df053441a024832d81;H;CDI;5810,35;36;Oui;Non;5,8;Consultant;Oui;entre 40 et 49 ans;entre 5 et 9;Temps complet
+36d4f7f75303fa18b085934f191c0673b2b35c65;H;CDI;4022,2;14;Non;Oui;15,6;Marketing;Non;50 ans et plus;entre 15 et 19;Temps complet
+4c82e6bc8a90b2ad78968ca0cde295437c4d8335;H;CDI;5035,33;24;Non;Oui;24;RH;Oui;50 ans et plus;entre 25 et 29;Temps complet
+0ffe30bb753ec8d496064ca868005d44d15b0266;F;CDI;3797,73;24;Non;Non;23,9;RH;Oui;50 ans et plus;entre 20 et 24;Temps complet
+472a05abec68e35ae30089c12ebb43635c08cde4;H;CDI;2735,2;27;Non;Oui;21,2;RH;Non;50 ans et plus;entre 20 et 24;Temps partiel
+223bf3237a53e2d8bb4bd4364307af5f5f3827c9;F;CDI;4763,85;7;Oui;Non;10,8;Marketing;Oui;entre 40 et 49 ans;entre 10 et 14;Temps complet
+11e653998d6d05b89e57bb889daf1d1dc9e50499;H;CDI;7654,62;5;Oui;Oui;23,3;R&D;Oui;entre 40 et 49 ans;entre 20 et 24;Temps complet
+137015584dd4c63cf7aef5d5377cef62f3582ed4;F;CDI;8828,52;17;Non;Oui;10,6;Commercial;Non;entre 30 et 39 ans;entre 10 et 14;Temps complet
+9c12e5f42c6df56d621b6d3b8dcfb214a5e2b647;F;CDI;2008,07;35;Non;Non;3,5;Compta Finances;Non;entre 30 et 39 ans;moins de 4;Temps complet
+fd2ab3c96941434dbc32cdbe1fc09b213a1c07ad;F;CDI;4198,13;34;Oui;Oui;4,8;Compta Finances;Non;entre 30 et 39 ans;entre 5 et 9;Temps complet
+f644bbc60a74ff557437044ecf8f00ec1f757550;F;CDI;3800,77;9;Oui;Oui;24,7;Commercial;Non;50 ans et plus;entre 25 et 29;Temps complet
+0c06bb0b04de69fdf9a7e78b86e3e6f57c3f095a;H;CDI;1979,25;6;Oui;Oui;5,5;Compta Finances;Non;entre 40 et 49 ans;entre 5 et 9;Temps complet
+dfdb41496c165ebff13d5d49dc103391514aa8a6;H;CDI;2828,58;21;Non;Non;24,2;Commercial;Oui;50 ans et plus;entre 25 et 29;Temps complet
+858907a76629384ef0e7bfabec5d42003033f937;H;CDI;6178,64;17;Non;Non;23,3;R&D;Oui;50 ans et plus;entre 20 et 24;Temps partiel
+d7433c17a0f60e833cffdd3fb061116d75098984;F;CDI;6743,36;4;Non;Non;22,7;Compta Finances;Oui;entre 40 et 49 ans;entre 20 et 24;Temps partiel
+2ab1e9107b9e32f4ecea991933829a7713d081ac;F;CDI;4882,8;17;Oui;Oui;9,9;Commercial;Oui;50 ans et plus;entre 10 et 14;Temps partiel
+c5e4b597b432726357a026960ae8e24455a221d4;H;CDI;5805,8;37;Non;Non;21,1;Commercial;Non;entre 40 et 49 ans;entre 20 et 24;Temps complet
+1f11199bc78aa1e15697ee1add640da9ddf8d718;F;CDI;9555;20;Oui;Non;13,9;Commercial;Oui;entre 40 et 49 ans;entre 10 et 14;Temps complet
+ebb8ae9f437c7c7abadf573a12d0d387504de05a;F;CDI;2070,25;34;Non;Non;3,8;Commercial;Non;50 ans et plus;moins de 4;Temps complet
+84996e8d53467620322f6a10be00626d552f90e7;F;CDI;5067,18;39;Oui;Non;15,1;RH;Non;50 ans et plus;entre 15 et 19;Temps complet
+00cf02bebfaf56967cc268ebac87c703e0eefc0c;H;CDI;7713,77;23;Oui;Non;14,3;Commercial;Oui;50 ans et plus;entre 15 et 19;Temps complet
+22b85539b61ec5be5c908628b835f641aea4fe89;H;CDI;4165,2;12;Non;Oui;22,6;R&D;Non;50 ans et plus;entre 20 et 24;Temps partiel
+b84887c10df9a60dc5fb4306bc882adb1792d3b9;F;CDI;7687,98;9;Non;Non;17,3;RH;Non;50 ans et plus;entre 15 et 19;Temps complet
+66586d7594f181288f681c0c9211df85c9bd014e;F;CDI;4204,2;39;Oui;Oui;9,3;Compta Finances;Oui;50 ans et plus;entre 10 et 14;Temps complet
+7be43304772f64b7c11ba9758ff797cc0a03e371;H;CDI;9488,27;38;Oui;Oui;14,9;Commercial;Non;50 ans et plus;entre 15 et 19;Temps complet
+97ca4877e0f3a30847f4f2cf354aa818d9e783d9;H;CDI;3655,17;33;Non;Oui;19,3;Marketing;Oui;50 ans et plus;entre 20 et 24;Temps complet
+f01916fd438853f7acee45ad749ca3e9f4e6a7f9;H;CDD;2558,62;22;Pas d'infos;Pas d'infos;1,8;Consultant;Non;entre 40 et 49 ans;moins de 4;Temps complet
+a13dc95d91090c0e7bdd6ec2344307d806ab7896;F;CDI;6413,98;24;Oui;Non;7,2;Consultant;Oui;50 ans et plus;entre 5 et 9;Temps complet
+433a3590509a29997958803c0c197962f5f1c1a1;F;CDI;1703,22;39;Oui;Non;5,7;Consultant;Non;50 ans et plus;entre 5 et 9;Temps complet
+0609d92a9d0a6338d161948d8c9123b2e15dc123;F;CDI;2027,78;19;Non;Oui;6,6;Consultant;Non;entre 40 et 49 ans;entre 5 et 9;Temps complet
+4b65260f3b6893ae7d04093ef91f927510771bf0;H;CDI;7637,93;27;Non;Non;13,8;Marketing;Non;entre 40 et 49 ans;entre 10 et 14;Temps complet
+55014c07c5181bc877bcd07317ddd2f8c3a4f4f1;H;CDI;9573,2;5;Oui;Non;7,9;R&D;Oui;50 ans et plus;entre 5 et 9;Temps complet
+0d66349f1ccebae842a298d52175ca29084be926;H;CDI;7185,97;7;Oui;Oui;5,5;Compta Finances;Non;50 ans et plus;entre 5 et 9;Temps complet
+1bff168b267313f0e7b65d8f7f267b0c842db1d9;F;CDI;5076,28;33;Non;Non;4,4;RH;Non;50 ans et plus;entre 5 et 9;Temps complet
+f30114740b9c589f295b6afd0cf42e7ac832b068;F;CDI;1598,57;18;Non;Oui;14;Marketing;Non;entre 30 et 39 ans;entre 15 et 19;Temps complet
+ca730272acb63802fd0f62a9f0c6b693c6680a8f;H;CDI;5212,78;11;Non;Non;4,2;R&D;Oui;50 ans et plus;entre 5 et 9;Temps complet
+d54d854fea2fd782092e17cd0f455ba7a0dbedac;F;CDI;8655,62;26;Oui;Non;15,8;Compta Finances;Oui;50 ans et plus;entre 15 et 19;Temps complet
+80b6f340b11a2a0df7f4be79df8cbe4cd3b37d00;H;CDI;3891,77;32;Non;Non;7,2;Consultant;Oui;50 ans et plus;entre 5 et 9;Temps complet
+1eedb9b5188529ea1d8cbdf089287bff78c15a4b;F;CDI;9218,3;4;Non;Non;6,7;Marketing;Oui;entre 40 et 49 ans;entre 5 et 9;Temps complet
+4d4ad0a1d96192f63f9e7248bcc6b9d9cc572ae3;F;CDI;2309,88;23;Non;Non;8,2;Commercial;Non;50 ans et plus;entre 5 et 9;Temps complet
+02162d838ad6f2f189026c9593f5fd0d6c353316;H;CDI;9642,97;17;Non;Non;19;RH;Non;50 ans et plus;entre 20 et 24;Temps complet
+94135a1ae2e4b5e3d233b2955079b4a1c5e8060a;H;CDI;9635,38;19;Oui;Non;6,4;RH;Oui;entre 40 et 49 ans;entre 5 et 9;Temps complet
+0b50ab47eb7a7ef861c5780596b0f3f17d5a725e;F;CDI;3853,2;9;Oui;Oui;24,8;Compta Finances;Oui;50 ans et plus;entre 25 et 29;Temps partiel
+41463f51dca7f9ad507b1271553c9332cf05d4ee;F;CDI;4013,1;12;Non;Oui;8,1;Compta Finances;Non;entre 40 et 49 ans;entre 5 et 9;Temps complet
+615e2b7ffdb965d2b49b3e76838872d4cba218f1;H;CDI;6973,63;31;Non;Oui;19,1;Consultant;Oui;50 ans et plus;entre 20 et 24;Temps complet
+ad38d7950f8228d6ec456a013f469870ed8a7e6e;H;CDI;2024,75;4;Oui;Non;14,2;Consultant;Oui;50 ans et plus;entre 15 et 19;Temps complet
+aa966690481a59010a939ed9b02acd6e0c064915;H;CDI;6398,82;11;Oui;Non;7;Consultant;Non;50 ans et plus;entre 5 et 9;Temps complet
+337c3dc5ae2e67a68c1fd156cb68748fafcc6dcf;H;CDI;4000,97;40;Oui;Oui;24,2;Consultant;Oui;entre 40 et 49 ans;entre 25 et 29;Temps complet
+84baf556503cd868cc6af61d2cef0e1236470906;H;CDI;6043,92;3;Oui;Oui;16,9;Consultant;Oui;50 ans et plus;entre 15 et 19;Temps complet
+2cc38083a61e7791a71ef8d2c3368a94b4b3312e;H;CDI;2918,07;39;Oui;Oui;21,2;Consultant;Non;50 ans et plus;entre 20 et 24;Temps complet
+75f1445e1f0ebfda0067ef0f701319211a432378;H;CDI;6031,78;39;Oui;Non;19,2;Commercial;Oui;50 ans et plus;entre 20 et 24;Temps complet
+8ac5f8d41ccee32e862425291860be3b7847dc4c;H;CDI;2561,65;13;Non;Non;17,4;Consultant;Oui;entre 40 et 49 ans;entre 15 et 19;Temps complet
+3b54d8853f8e1303573d4de257594564ea4612fa;F;CDI;2507,44;18;Oui;Oui;16,2;RH;Oui;50 ans et plus;entre 15 et 19;Temps partiel
+ae96ab43b7c1793f8a605c5f195a7e51974f03da;H;CDI;2675,4;20;Oui;Non;3,4;Consultant;Oui;50 ans et plus;moins de 4;Temps complet
+678f4aa6e4eb27ae2141bae271f49a36bd328233;F;CDI;7601,53;19;Oui;Oui;12,5;Compta Finances;Non;entre 40 et 49 ans;entre 10 et 14;Temps complet
+69f4de3970f2fa9b97fcb6f150e16ac3b0feaa02;H;CDI;6494,37;1;Non;Non;6;R&D;Oui;entre 40 et 49 ans;entre 5 et 9;Temps complet
+a7f30321e36c41c2f991dc98ba6ba09df3d6396d;F;CDI;3012,1;19;Oui;Oui;16,2;RH;Non;50 ans et plus;entre 15 et 19;Temps complet
+a3650c1cf8a03a4e87048fa7068d42cba45405bc;F;CDI;6127,33;0;Oui;Non;14,3;Compta Finances;Non;50 ans et plus;entre 15 et 19;Temps complet
+646b861a4376f4975f4a3efa9127ffdf7536f892;H;CDI;2834,65;15;Oui;Non;6,2;Consultant;Non;50 ans et plus;entre 5 et 9;Temps complet
+2e9cd329c3dd80c06234eb499c27354952a49b0b;F;CDI;6212,27;5;Oui;Non;4,6;Commercial;Oui;50 ans et plus;entre 5 et 9;Temps complet
+cbe03717474301b06b91bffe93816a019ba4244f;F;CDI;6838,65;5;Non;Non;3;Commercial;Non;entre 30 et 39 ans;moins de 4;Temps complet
+9bbce4feaab4d6a066558a527438611ff5c50786;F;CDI;5739,07;6;Oui;Oui;24,7;Consultant;Non;50 ans et plus;entre 25 et 29;Temps complet
+794bc8563adf4147deb9660d004e0130d686533e;H;CDI;5949,88;17;Oui;Non;16,2;Commercial;Oui;entre 30 et 39 ans;entre 15 et 19;Temps complet
+5a9d6dd34eb8946ace6918e536c02c24378ec5fa;H;CDI;8696,57;34;Oui;Non;13,1;Marketing;Oui;50 ans et plus;entre 10 et 14;Temps complet
+11ffd687dfed14c5e182a8f1d4876f562f654ae6;F;CDI;9497,37;17;Oui;Oui;13,8;Commercial;Oui;50 ans et plus;entre 10 et 14;Temps complet
+59169a459ff08d0d23a8329c363bd57408203d62;H;CDI;5749,68;17;Non;Non;13,8;Commercial;Non;50 ans et plus;entre 10 et 14;Temps complet
+a821c300fda07ffc209b477f757e0d5be06a3840;F;CDI;7889,7;27;Non;Oui;16,5;Compta Finances;Non;entre 40 et 49 ans;entre 15 et 19;Temps complet
+f95ce77fb839134cee554c83bc8faaed259af62d;H;CDI;3436,77;27;Oui;Oui;10,3;Compta Finances;Oui;entre 40 et 49 ans;entre 10 et 14;Temps complet
+558430b30eb9e328f933cd5a1ffb708f43186282;H;CDI;5724,16;15;Oui;Oui;18,6;Compta Finances;Non;entre 40 et 49 ans;entre 15 et 19;Temps partiel
+c9bd9a2cd51adc826e0bd3f9800f393377f98b41;F;CDI;8746,62;19;Non;Oui;5,2;RH;Non;entre 40 et 49 ans;entre 5 et 9;Temps complet
+66d8151d8f24f832fde84e995af91f7c7c8d7c0d;F;CDI;7148,05;21;Oui;Oui;7,9;RH;Oui;entre 40 et 49 ans;entre 5 et 9;Temps complet
+707d5584654b39eebded60777cfbfb8da5462074;F;CDD;2226,47;2;Pas d'infos;Pas d'infos;1,1;Consultant;Non;entre 30 et 39 ans;moins de 4;Temps complet
+9ddd6fee54da110d2693638d9e36905f1f7080c6;H;CDI;7358,87;31;Oui;Oui;9,9;Marketing;Non;entre 30 et 39 ans;entre 10 et 14;Temps partiel
+b0ae5a6114dd40eb4aa94bfdc10a760813f7ed83;F;CDI;3060,72;6;Non;Oui;19,5;RH;Non;50 ans et plus;entre 20 et 24;Temps partiel
+9abbb4ed31a82b4c6fe21c3754961adc4dea881c;F;CDI;3459,52;30;Non;Non;10,3;Consultant;Oui;50 ans et plus;entre 10 et 14;Temps complet
+fc59a4d9b2ad26565a3a41c8bd631ecc1d47daf2;F;CDI;9162,18;17;Oui;Oui;9,1;Consultant;Non;50 ans et plus;entre 10 et 14;Temps complet
+9f6fe9826b50fa07390f6af8db4f838c6eb0adfa;F;CDD;1920,1;17;Pas d'infos;Pas d'infos;1,1;Compta Finances;Non;entre 30 et 39 ans;moins de 4;Temps complet
+86a13c928b0d2ea25538fd600b4fb1acb619cef9;H;CDI;7753,2;21;Oui;Non;15,2;Compta Finances;Non;50 ans et plus;entre 15 et 19;Temps complet
+d232ae4793525c726a83e8a0e6188e4a1b4d95cf;H;CDI;2813,72;8;Oui;Oui;13,3;Consultant;Non;50 ans et plus;entre 10 et 14;Temps partiel
+7fdd5deecbf5817d9f1cc46faa549fa82a2bf511;H;CDI;7184,45;37;Oui;Oui;24,1;Marketing;Non;entre 40 et 49 ans;entre 25 et 29;Temps complet
+b157f174863cc9abfccbbdf4dc82dd5292a675b8;H;CDI;2604,12;32;Oui;Non;20,5;Compta Finances;Oui;50 ans et plus;entre 20 et 24;Temps complet
+5dd2acbc6434d9a4d9fb46101755590aea6f9c6c;F;CDI;5293,17;39;Non;Oui;18,6;RH;Non;50 ans et plus;entre 15 et 19;Temps complet
+981fcc5929c876767efa9419cc229f786a707271;F;CDI;6163,73;16;Oui;Oui;23,9;Commercial;Oui;50 ans et plus;entre 20 et 24;Temps complet
+83f5fc246312e0c75eaf6d798fbcc0758443eb76;F;CDI;4117,36;8;Oui;Oui;6,7;RH;Non;50 ans et plus;entre 5 et 9;Temps partiel
+a2f89a37034ae6ec9da5858ef342ed2dd7772d0f;F;CDI;9426,08;24;Oui;Non;23,8;Consultant;Non;50 ans et plus;entre 20 et 24;Temps complet
+7b133d0567442c0374244e657c842b85911ea4b3;F;CDI;5092,97;11;Oui;Oui;23,1;Commercial;Oui;entre 40 et 49 ans;entre 20 et 24;Temps complet
+920f0f9fa8a4313c9e9f21c729faf0be34b0d33e;F;CDI;8126,3;36;Oui;Non;18,2;Commercial;Oui;50 ans et plus;entre 15 et 19;Temps complet
+34bf345d8948ee607fa433038c62368945f8afe5;F;CDI;9782,5;38;Non;Oui;6,3;Consultant;Non;50 ans et plus;entre 5 et 9;Temps complet
+a4afbc826cc6abcafccfc0c358c0f71372d26c50;H;CDI;1590,98;30;Oui;Non;14,9;Commercial;Non;50 ans et plus;entre 15 et 19;Temps complet
+ee8d4117fe4b1c8aaa8141ccd84377632086f55a;F;CDI;7637,93;21;Oui;Non;8,6;RH;Oui;50 ans et plus;entre 5 et 9;Temps complet
+696a1e6cc43863849f1df0a9d499b25515975231;F;CDI;7304,27;17;Oui;Non;7,9;Consultant;Non;entre 40 et 49 ans;entre 5 et 9;Temps complet
+584632ae67f9791515481b94b30dda8983ddcdc2;F;CDI;8328,02;14;Oui;Non;10,2;Compta Finances;Non;entre 40 et 49 ans;entre 10 et 14;Temps complet
+b944313f62e8a42f860d34985d98f1898782db94;F;CDI;8860,8;19;Oui;Oui;11,9;RH;Non;50 ans et plus;entre 10 et 14;Temps partiel
+04a0f16ff83ebc6a6e4e4f62a2173041437fa62c;F;CDI;4974,32;32;Non;Oui;11,8;Commercial;Oui;50 ans et plus;entre 10 et 14;Temps partiel
+a85eeeec92d00401ad68bb0d55c81c4128646a4b;F;CDI;6583,85;13;Oui;Oui;12,6;Marketing;Non;50 ans et plus;entre 10 et 14;Temps complet
